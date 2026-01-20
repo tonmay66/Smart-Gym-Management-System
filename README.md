@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gym Management System - Quick Start Guide
 
 ## Prerequisites
@@ -171,3 +172,6 @@ Check the following files for more information:
 - `database/README.md` - Database documentation
 - `database/useful_queries.sql` - Example queries
 - `public/index.php` - Routing configuration
+=======
+# Smart-Gym-Management-System
+>>>>>>> 0682a5be81e84b55afdc085ce3c30b05bcdafdd1
